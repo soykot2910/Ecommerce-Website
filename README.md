@@ -1,4 +1,4 @@
-#MERN Ecommerce Website
+# MERN Ecommerce Website
 
 ## Features
 
