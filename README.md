@@ -1,4 +1,6 @@
-# MERN Ecommerce Website
+# MERN Ecommerce Website [ link](https://ecommerce-website-mern.herokuapp.com/)
+
+![alt text](website.png)
 
 ## Features
 
